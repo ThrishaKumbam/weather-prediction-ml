@@ -45,6 +45,7 @@ The workflow of the project includes:
 ## Project Files
 
 The repository currently contains the following files:
+```
 WEATHER-PREDICTION-ML
 │
 ├── Weather_Prediction.ipynb
@@ -61,6 +62,7 @@ WEATHER-PREDICTION-ML
 │
 └── .gitignore
 Git ignored files configuration
+```
 
 ## How to Run the Project
 
