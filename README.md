@@ -61,7 +61,7 @@ WEATHER-PREDICTION-ML
 │ Python dependencies required to run the project
 │
 └── .gitignore
-Git ignored files configuration
+  Git ignored files configuration
 ```
 
 ## How to Run the Project
