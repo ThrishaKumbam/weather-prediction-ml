@@ -47,11 +47,20 @@ The workflow of the project includes:
 The repository currently contains the following files:
 WEATHER-PREDICTION-ML
 │
-├── Weather_Prediction.ipynb # Jupyter notebook containing the ML workflow
-├── seattle-weather.csv # Dataset used for training and testing
-├── climate-and-weather-project-report.docx # Final project report
-├── requirements.txt # Python dependencies
-├── .gitignore # Git ignored files
+├── Weather_Prediction.ipynb
+│ Jupyter notebook containing the machine learning workflow
+│
+├── seattle-weather.csv
+│ Dataset used for training and testing
+│
+├── climate-and-weather-project-report.docx
+│ Final project report
+│
+├── requirements.txt
+│ Python dependencies required to run the project
+│
+└── .gitignore
+Git ignored files configuration
 
 ## How to Run the Project
 
